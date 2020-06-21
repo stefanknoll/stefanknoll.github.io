@@ -4,9 +4,9 @@ Ein zu einer langjährigen Gefängnisstrafe Verurteilter auf dem Transport in ei
 
 ## Charaktereigenschaften
 
-- stolz
-- klar
-- loyal
-- aufrichtig
-- mutig
-- humorvoll
+* stolz
+* klar
+* loyal
+* aufrichtig
+* mutig
+* humorvoll
