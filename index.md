@@ -10,3 +10,5 @@ Ein zu einer langjährigen Gefängnisstrafe Verurteilter auf dem Transport in ei
 * aufrichtig
 * mutig
 * humorvoll
+
+> ich sitze halt auch nicht mehr so sicher
