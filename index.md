@@ -12,3 +12,5 @@ Ein zu einer langjährigen Gefängnisstrafe Verurteilter auf dem Transport in ei
 * humorvoll
 
 > ich sitze halt auch nicht mehr so sicher
+
+<img src="https://dienachtderlebendentexte.files.wordpress.com/2015/01/assault-01.jpg"/>
